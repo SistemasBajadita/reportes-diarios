@@ -1,0 +1,6 @@
+miercoles 17 de julio
+-08:10 Imprimiendo compras de proveedor para Rosa
+-08:20 Ayudando a miriam con logueo de whatsapp
+-08:40 Imprimiendo nuevamente hojas de catalogo sin ventas a Rosa
+-08:50 Actualizando aplicacion de tickets y de reportes
+-10:15 Creando nuevo perfil de usuario para sistemas (no tendra permisos para realizar acciones en cajas)

@@ -1,0 +1,5 @@
+-Ayudando a Yuriko con tickets de Toscanos (se marcaron como efectivo y no aparecian en saldo de credito)
+-Yendo con miriam (me pidio una factura, pero aun no le pasan el total)
+-Agregando forma de pago de tickets a vista de tickets (no saldra en la impresion)
+-generado nuevo usuario para rocio ibarra
+-actualizados permisos de rocio para poder realizar arqueos

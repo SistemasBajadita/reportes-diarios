@@ -5,3 +5,5 @@ lunes 15 de julio
 -09:50 Ayudando a miriam con factura de abarrey
 -11:45 terminada factura de abarrey, continuando con query de margenes
 -12:13 Revisando relacion de factura de la semana pasada de abarrey
+-12:20 Anexando articulos nuevas a listas de precios
+-12:30 Importando codigos de productos en bascula para cocina

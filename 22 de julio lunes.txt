@@ -1,0 +1,6 @@
+-08:00 Agregando nueva funcionalidad a reporte de conteo
+-08:10 Tratando de poner impresora de Sergio/Adriana en red para que wendy pueda imprimir
+-08:50 Ayudando a miriam con factura de abarrey
+-09:15 Continuando con configuracion de impresora
+-11:30 Revisando caja 5 (no funcionada el touch)
+-11:48 Revisando ticket que no aparece para devolucion

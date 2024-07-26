@@ -1,0 +1,7 @@
+jueves 25 de julio
+-08:05 Arreglando bascula de cocina (no imprimia tickets)
+-08:37 Ayudando a miriam con saldo de cliente
+-08:45 Continuando con bascula (se cargaron nuevos codigos para las salsas)
+-09:15 Comenzando con ofertas de abarrotes
+-09:53 Terminadas las ofertas de abarrotes, esperando las demas, realizando query para informacion detallada de facturas pendientes
+-11:17 COmenzando con ofertas de FyV

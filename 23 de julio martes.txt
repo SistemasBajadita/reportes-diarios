@@ -1,0 +1,7 @@
+martes 23 de julio
+-08:05 Arreglando bug de seleccion de tickets multiple (todos salian con el mismo chofer y misma direccion)
+-08:30 Haciendo facturas que encargo christian
+-09:54 Enviada factura del dia 3 de julio a Christian, comenzando con resaltado de devoluciones en reporte de choferes (para yessi)
+-11:30 Instalando bascula en cocina, tambien se entregaron hojas con articulos dado de alta en la bascula
+-11:45 Agregando funcionalidad de resaltado de devoluciones en aplicacion de adriana
+-12:28 Buscando opcion de bascula para pesar concurrentemente sin borrar el codigo

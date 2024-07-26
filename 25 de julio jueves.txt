@@ -5,3 +5,5 @@ jueves 25 de julio
 -09:15 Comenzando con ofertas de abarrotes
 -09:53 Terminadas las ofertas de abarrotes, esperando las demas, realizando query para informacion detallada de facturas pendientes
 -11:17 COmenzando con ofertas de FyV
+-12:04 Terminadas ofertas de FyV, comenzando con ofertas de carnes
+-12:40 Terminadas ofertas, mandadas a rosa para su revision 

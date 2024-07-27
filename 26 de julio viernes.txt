@@ -1,0 +1,7 @@
+viernes 26
+-08:05 Realizando configuraciones adicionales de bascula (fechas de caducidad)
+-08:40 Realizando publicacion de ofertas (ayer no me las aprobaron a tiempo)
+-08:50 Continuando con configuracion adicional de bascula (asingnando fechas de caducidad a productos)
+-11:20 Revisando maquina de adriana e imprimiendo notas de abarrey (se perdia mucho la conexion)
+-11:54 Eliminando datos duplicados en tabla de auxcaja (en reporte de relacion de movimientos salia la misma nota 4 veces)
+-12:10 Continuando con caducacion de productos para bascula

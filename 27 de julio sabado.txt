@@ -1,0 +1,12 @@
+viernes 27 de julio
+-08:05 Revisando y limpiando respaldos de la base de datos, y optimizando su espacio
+-09:08 Reemplazando bascula en cajas (una cajera jalo una y se rompio el cable de la fuente de alimentacion)
+-09:30 Continuando con caducidad de productos en bascula de cocina
+-11:03 Configuradas fechas de caducidad, preguntando/investigando por funcion de bascula que se requiere para hacer etiquetado masivo sin que se quite el codigo
+-12:00 Entregadas instrucciones para funcion de dejar fijo un codigo, agregando detalles nuevos a reportes
+-12:10 Buscando como configurar impresion de etiquetas en otras computadoras
+-02:58 Corrigiendo precio de producto de bascula de cocina
+-03:07 Configuradas computadoras de RH y mi laptop para poder imprimir etiquetas remotamente
+-03:10 Cubriendo a adriana en recepcion (fue al baño)
+-03:15 Preparando cafe 
+-03:30 Barriendo oficina de RH

@@ -1,0 +1,6 @@
+lunes 27 de julio
+-08:05 Agregando detalles en aplicacion de reportes (total de ventas en la forma, eliminados rennglones vacios de reporte de venta de caja de remisiones, asincronidad en aplicacion de tickets de recepcion)
+-09:34 Ayudando a miriam a hacer factura de abarrey
+-10:15 Ayudando a miriam con factura de Aguilera
+-10:30 Trabajando con query para facturas pendientes, se implementaran notificaciones
+-10:53 revisando si esta ocupada caja 5 para instalar excel

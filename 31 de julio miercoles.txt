@@ -1,0 +1,10 @@
+miercoles 31 de julio
+-08:05 Preparando cafe
+-08:14 Actualizando descripciones de salsas en bascula de cocina
+-08:21 Integrando merma en reporte de venta/costo
+-09:14 Revisando saldo que no cuadra con Miriam (se envio duda a Jorge)
+-09:25 Continuando con merma en reporte de venta/costo
+-10:02 Subiendo con miriam a ver: Saldo incorrecto de bambinos y factura a publico en general que se debe cancelar
+-10:15 Continuando con merma en reporte de venta/costo y ajustando pdf
+-12:01 Actualizada aplicacion de reportes (instalando en equipo de Miriam por solicitud de Yessi)
+-12:09 Generando nuevo codigo para etiqueda de chile morita 100g

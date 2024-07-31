@@ -1,0 +1,4 @@
+martes 30 de julio
+-08:05 Revisando ajuste de negativos que hizo jorge
+-08:38 Creado nuevo modulo para aplicacion de reportes (negativos en inventario)
+-10:00 Actualizada aplicacion de reportes con nuevo modulo, haciendo query para integrar merma en reportes de venta/costo
